@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992715558665",
+    "firebase_url": "https://pregnancy-288a6.firebaseio.com",
+    "project_id": "pregnancy-288a6",
+    "storage_bucket": "pregnancy-288a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992715558665:android:62ec981e9bf11873",
+        "android_client_info": {
+          "package_name": "pudpongsai.thanaporn.th.ac.su.reg.pregnancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992715558665-90mucou5f7b7tcn7or9aqcdm8sj8qala.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pudpongsai.thanaporn.th.ac.su.reg.pregnancy",
+            "certificate_hash": "9888781b3afa1e5f73e74ab34fe40c28a93eed6f"
+          }
+        },
+        {
+          "client_id": "992715558665-vbqrm64kmt80nqhev5lm65viq2196d8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-NoJkSjcWUouoX7S-ZEW9aDBrQfkhF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992715558665-vbqrm64kmt80nqhev5lm65viq2196d8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
