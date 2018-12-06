@@ -21,12 +21,14 @@
         android:layout_height="wrap_content">
 
         <Button
+            android:id="@+id/btnSignin"
             android:layout_weight="1"
             android:text="@string/signin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <Button
+            android:id="@+id/btnSignup"
             android:layout_weight="1"
             android:text="@string/signup"
             android:layout_width="match_parent"
